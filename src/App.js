@@ -8,8 +8,8 @@ class App extends Component {
     counters: [
       { id: 1, value: 4, name: "Iphone x" },
       { id: 2, value: 0, name: "Iphone 8" },
-      { id: 3, value: 0, name: "Pixel 3" },
-      { id: 4, value: 0, name: "Pixel 2" }
+      { id: 3, value: 0, name: "Pixel 3 XL" },
+      { id: 4, value: 0, name: "Pixel 2 XL" }
     ]
   };
 
