@@ -15,6 +15,9 @@ const NavBar = props => {
 };
 
 // class NavBar extends Component {
+//  constructor(){
+//     super();
+//   };
 //   render() {
 //     return (
 //       <nav className="navbar navbar-light bg-light">

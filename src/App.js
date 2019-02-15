@@ -47,6 +47,7 @@ class App extends Component {
 
   render() {
     return (
+      // Fragment let you group a list of children without adding extra nodes to the DOM
       <React.Fragment>
         <NavBar
           totalCounters={this.state.counters.filter(c => c.value > 0).length}
